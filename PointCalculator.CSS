@@ -81,7 +81,7 @@
 
 .standings {
   grid-column: 2 /span 10;
-  grid-row: 13 / span 10;
+  grid-row: 13 / span 10 ;
   justify-content: center;
 }
 
